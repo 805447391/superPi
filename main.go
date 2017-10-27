@@ -36,7 +36,6 @@ func main() {
 	for k := 1; k < N; k++ {
 		fmt.Printf("%04d", s[k])
 	}
-	fmt.Println()
 	return
 }
 
